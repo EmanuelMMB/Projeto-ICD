@@ -1,7 +1,15 @@
 # Projeto ICD
  Projeto de Introdução a Ciência de Dados
 
-Integrantes: Antônio, Fabio, Emanuel e Natã.
+Integrantes: 
+
+Antonio Monteiro da Nóbrega Neto — 20230021330
+
+Fábio Soares de Lima - 20220128745
+
+Emanuel Messias Melquíades Batista — 20230021475
+
+Natã — 
 
 Opção 1: Câncer no estado da Paraíba.
 
