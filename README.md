@@ -9,7 +9,7 @@ Fábio Soares de Lima - 20220128745
 
 Emanuel Messias Melquíades Batista — 20230021475
 
-1Natã Igor Pontes Teixeira Alcântara - 20220007258
+Natã Igor Pontes Teixeira Alcântara - 20220007258
 
 Opção 1: Câncer no estado da Paraíba.
 
