@@ -1,5 +1,5 @@
 # Projeto ICD
- Projeto de Introdução a Ciência de Dados
+ Projeto de Introdução à Ciência de Dados
 
 Integrantes: 
 
