@@ -11,24 +11,21 @@ Emanuel Messias Melquíades Batista — 20230021475
 
 Natã Igor Pontes Teixeira Alcântara - 20220007258
 
-Opção 1: Câncer no estado da Paraíba.
 
-1. Qual a maior incidência de casos de câncer: homens ou mulheres?
-
-2. Qual o tipo de maior incidência em homens?
-
-3. Qual o tipo de maior incidência em mulheres?
-
-4. Qual a raça/cor de maior predominância de casos?
-
-Opção 2: Acidentes de Trânsito em BRs.
+PERGUNTAS:
 
 1. Quais são as principais causas dos acidentes de trânsito nas rodovias federais?
 
-2. Qual o período do dia e traçado da pista onde acontecem o maior número de acidentes?
+2. Qual o período do dia que acontece mais acidentes? 
 
 3. Qual o tipo de acidente que provoca maior lesão ou número de mortes?
 
-4. Qual o trecho de rodovia onde acontece o maior número de acidentes?
+4. Qual o trecho de rodovia na Paraíba onde acontece o maior número de acidentes?
 
 5. Qual dia da semana ocorrem mais acidentes?
+
+6. Qual o traçado da pista  o maior número de acidentes?
+
+7. Existe alguma relaçåo entre o número de acidentes e a condição metereológica?
+
+8. Em que fase do dia acontecem os acidentes de maior gravidade?
