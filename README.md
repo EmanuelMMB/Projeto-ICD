@@ -14,6 +14,8 @@ Natã Igor Pontes Teixeira Alcântara - 20220007258
 
 PERGUNTAS:
 
+
+
 1. Quais são as principais causas dos acidentes de trânsito nas rodovias federais?
 
 2. Qual o período do dia que acontece mais acidentes? 
@@ -29,3 +31,11 @@ PERGUNTAS:
 7. Existe alguma relaçåo entre o número de acidentes e a condição metereológica?
 
 8. Em que fase do dia acontecem os acidentes de maior gravidade?
+
+
+
+REFERÊNCIA:
+
+DATASET - DATATRAN da Polícia Rodoviária Federal
+Anos: 2013 a 2023
+Site: prf.gov.br (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
