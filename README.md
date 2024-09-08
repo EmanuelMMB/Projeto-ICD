@@ -30,7 +30,7 @@ PERGUNTAS:
 
 7. Existe alguma relaçåo entre o número de acidentes e a condição metereológica?
 
-8. Em que fase do dia acontecem os acidentes de maior gravidade?
+8. Em que fase do dia acontece os acidentes de maior gravidade?
 
 
 
