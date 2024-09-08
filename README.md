@@ -1,7 +1,7 @@
 # Projeto ICD
- Projeto de Introdução à Ciência de Dados
+ PROJETO DE INTRODUÇÃO À CIÊNCIA DE DADOS
 
-Integrantes: 
+INTEGRANTES: 
 
 Antonio Monteiro da Nóbrega Neto — 20230021330
 
