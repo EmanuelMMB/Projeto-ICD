@@ -5,9 +5,9 @@ INTEGRANTES:
 
 Antonio Monteiro da Nóbrega Neto — 20230021330
 
-Fábio Soares de Lima - 20220128745
-
 Emanuel Messias Melquíades Batista — 20230021475
+
+Fábio Soares de Lima - 20220128745
 
 Natã Igor Pontes Teixeira Alcântara - 20220007258
 
