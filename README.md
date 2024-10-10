@@ -18,7 +18,8 @@ PERGUNTAS:
 
 1. Quais são as principais causas dos acidentes de trânsito nas rodovias federais?
 
-2. Qual o período do dia que acontece mais acidentes? 
+2. Qual o período do dia que acontece mais acidentes?
+#Não dá pra responder, não há dados. -- EM.
 
 3. Qual o tipo de acidente que provoca maior lesão ou número de mortes?
 
@@ -26,11 +27,13 @@ PERGUNTAS:
 
 5. Qual dia da semana ocorrem mais acidentes?
 
-6. Qual o traçado da pista  o maior número de acidentes?
+6. Qual o traçado da pista onde ocorrem o maior número de acidentes?
 
 7. Existe alguma relaçåo entre o número de acidentes e a condição metereológica?
+#Não dá pra responder, não há dados. -- EM.
 
 8. Em que fase do dia acontece os acidentes de maior gravidade?
+#Não dá pra responder, não há dados. -- EM.
 
 
 
