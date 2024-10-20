@@ -27,7 +27,8 @@ PERGUNTAS:
 
 5. Qual dia da semana ocorrem mais acidentes?
 
-6. Qual o traçado da pista onde ocorrem o maior número de acidentes?
+6. Qual o traçado da pista onde ocorrem o maior número de acidentes? 
+#Não dá pra responder, não há dados. -- EM.
 
 7. Existe alguma relaçåo entre o número de acidentes e a condição metereológica?
 #Não dá pra responder, não há dados. -- EM.
