@@ -25,7 +25,7 @@ PERGUNTAS:
 4. Qual dia da semana ocorrem mais acidentes?
 
 5. Em que fase do dia acontece os acidentes de maior gravidade?
-#Não dá pra responder, não há dados.
+
 
 
 
