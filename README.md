@@ -20,10 +20,10 @@ PERGUNTAS:
 
 2. Qual o tipo de acidente que provoca maior lesão ou número de mortes?
 
-3. Qual o trecho de rodovia na Paraíba onde acontece o maior número de acidentes?
+3. Qual dia da semana ocorrem mais acidentes?
 
-4. Qual dia da semana ocorrem mais acidentes?
-
+4. Qual o trecho de rodovia na Paraíba onde acontece o maior número de acidentes?
+ 
 5. Em que fase do dia acontece os acidentes de maior gravidade?
 
 
